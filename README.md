@@ -1,6 +1,5 @@
-# Python-Challenge
+Module 3 Assignment - Python-Challenge
 
-Add files via upload
 This Repsitory contains the files for the GWU Bootcamp Module 3 Python Challenge assignments:  PyBank & PyPoll.
 For each part (PyBank and PyPoll), there are 4 associated files:
 1)  a csv file with the incoming data (budget_data.csv for PyBank, election_data.csv for PyPoll).
